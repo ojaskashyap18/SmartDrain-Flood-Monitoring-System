@@ -10,7 +10,7 @@ The system combines drainage sensor data, weather information, historical mainte
 
 The complete project presentation is available here:
 
-[View SmartDrain Presentation](Presentation/SmartDrain.pptx)
+[View SmartDrain Presentation](presentation/SMARTDRAIN.pptx)
 
 ## Problem
 
