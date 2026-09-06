@@ -6,13 +6,6 @@ The system combines drainage sensor data, weather information, historical mainte
 
 ---
 
-## GIS Dashboard Preview
-
-The complete dashboard documentation is available inside:
-
-```text
-GIS_Dashboard/
-
 ## Presentation
 
 The complete project presentation is available here:
