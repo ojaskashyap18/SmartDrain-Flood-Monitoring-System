@@ -73,7 +73,7 @@ Shows how the risk level of a drainage section is changing over time.
 
 ### Sensor Health & Maintenance
 
-![Sensor Health and Maintenance](Images/SensorHealth%20%26%20Maintenance.png)
+![Sensor Health and Maintenance](Images/SensorHealth%20&%20Maintenance.png)
 
 Displays sensor status together with maintenance and cleaning information.
 
