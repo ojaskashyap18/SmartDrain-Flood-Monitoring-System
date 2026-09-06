@@ -71,11 +71,6 @@ Breaks down the major factors contributing to the calculated risk.
 
 Shows how the risk level of a drainage section is changing over time.
 
-### Sensor Health & Maintenance
-
-![Sensor Health and Maintenance](Images/SensorHealth%20&%20Maintenance.png)
-
-Displays sensor status together with maintenance and cleaning information.
 
 ## System Workflow
 
